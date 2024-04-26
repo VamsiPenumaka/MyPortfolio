@@ -1457,7 +1457,7 @@ footer .credits a {
   opacity: 0;
   transition: 2s all ease;
 }
-.krish.active{
+.krish .active{
   transform: translateY(0);
   opacity: 1;
 }
