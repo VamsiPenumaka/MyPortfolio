@@ -1452,7 +1452,7 @@ footer .credits a {
 }
  .animation {
    opacity: 0;
-   transform: translateY(-90px);
+   transform: translateY(90px);
    transition: opacity 0.5s, transform 0.6s;
  }
 .scroll-animation {
